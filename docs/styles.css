@@ -129,6 +129,10 @@ button::-moz-focus-inner {
   z-index: 1;
 }
 
+.carousel-indicators {
+  z-index: 1;
+}
+
 #home {
   z-index: 1;
   padding: 0;
