@@ -8,7 +8,7 @@ window.onscroll = () => {
   }
 };
 
-window.onload = function loadImages() {
+function loadImages() {
   imageNames.forEach((imgName) => {
     // small image & btn
     const img = document.createElement('img');
